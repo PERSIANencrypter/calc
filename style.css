@@ -16,7 +16,10 @@
 }
 
 body{
+	background-image: url("back.jpg");
   background-image: url('back.jpg');
+	
+	
   background-size: 500px;
 }
 /*az inja */
